@@ -1,0 +1,38 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+
+#cards {
+  padding: 10px;
+  background:  #fff;
+  width: auto;
+  height: auto;
+  border-radius: 22px;
+  display: flex;
+  align-items: baseline;
+  gap: 30px;
+  flex-direction: row;
+
+  color: antiquewhite;
+  font-size: 30px;
+}
+
+#app {
+  width: auto;
+    height:auto;
+    border: 3px solid #ccc;
+    background: #eee;
+    margin: auto;
+    padding: 15px 10px;
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  gap: 20px;
+  background: linear-gradient(to top, #004b82, #6ae3af, #c3f0c6, #04cfb2);
+  opacity: 3;
+}
+p{
+  color: black;
+}
